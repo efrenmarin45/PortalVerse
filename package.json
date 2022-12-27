@@ -1,0 +1,19 @@
+{
+  "name": "portalverse",
+  "version": "1.0.0",
+  "description": "A simple tweet clone using solely vanilla JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efrenmarin45/PortalVerse.git"
+  },
+  "author": "Efren Marin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/efrenmarin45/PortalVerse/issues"
+  },
+  "homepage": "https://github.com/efrenmarin45/PortalVerse#readme"
+}
